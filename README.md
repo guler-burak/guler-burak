@@ -1,16 +1,5 @@
 ## Hey 👋, I'm Burak Güler  
-  <style>
-  .badge-button {
-    text-decoration: none; /* Alt çizgiyi kaldırır */
-    border: none; /* Kenarlıkları kaldırır */
-    display: inline-block; /* Butonların düzgün hizalanmasını sağlar */
-    outline: none; /* Odaklanma durumunda dış çizgiyi kaldırır */
-  }
-  
-  .badge-button img {
-    display: block; /* Resmi blok eleman olarak ayarlar, bu sayede boşlukları ortadan kaldırır */
-  }
-</style>
+
 
 <a href="https://github.com/" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 0; border: none;" />
