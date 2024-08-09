@@ -1,15 +1,16 @@
 ## Hey 👋, I'm Burak Güler  
   
 
-<a href="https://github.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"  style="margin-bottom: 5px; border: none;" />
+<a href="https://github.com/" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 0; border: none;" />
 </a>
-<a href="https://linkedin.com/in/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px; border: none;" />
+<a href="https://linkedin.com/in/" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+  <img src="https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 0; border: none;" />
 </a>
-<a href="https://www.kisiselwebsiteniz.com" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white" style="margin-bottom: 5px; border: none;" />
+<a href="https://www.kisiselwebsiteniz.com" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+  <img src="https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white" alt="website" style="margin-bottom: 0; border: none;" />
 </a>
+
 
 
 
