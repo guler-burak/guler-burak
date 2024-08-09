@@ -31,6 +31,11 @@ TEST
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=guler-burak&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=guler-burak&&style=flat-square)  
+  
+
+<br/>  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
