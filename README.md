@@ -1,5 +1,7 @@
-# 💫 About Me:
-TEST
+# 💫 Hakkımda:
+Merhaba,
+
+6.5 yıldır IT alanında çalışmaktayım ve şimdi Full Stack Developer olarak kendimi geliştiriyorum. Python, Django ve Flask gibi teknolojilerle projelerimi buradan paylaşıyorum projelerimin canlı halini burakguler.com.tr adresinden görüntüleyebilirsiniz.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-güler) 
 
