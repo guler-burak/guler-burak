@@ -60,9 +60,3 @@ A Django-based application for managing software licenses, domains, hosting serv
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/guler-burak)
 
 ---
-
-## 📊 GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guler-burak&layout=compact&theme=github_dark&hide_border=true" />
-</p>
