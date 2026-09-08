@@ -1,45 +1,68 @@
-## Merhaba 👋, Ben Burak Güler 
+# Hi, I'm Burak Güler 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/burakgüler) 
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white&style=for-the-badge)](https://burakguler.com.tr) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/guler-burak) 
+### Python & Django Developer
 
+I build practical web applications and software products focused on solving real-world problems.
 
-### Profilime hoş geldiniz!  
-IT alanında 6,5 yıllık deneyimimle güçlü bir teknik altyapı kazandım. Bu bilgi birikimini Python eğitimiyle pekiştirerek yazılım geliştirme alanına yöneldim. Şu anda, yazılım geliştirme becerilerimi daha da ileriye taşıyarak bu alanda kariyerimi şekillendirmeyi hedefliyorum.
-Projelerimin canlı örneklerine [burakguler.com.tr](https://burakguler.com.tr) adresinden ulaşabilirsiniz.
+With over 6 years of experience in IT, I bring a strong technical background into software development, combining hands-on IT experience with Python and Django to build useful, maintainable applications.
 
-
-# 💻 Diller ve Araçlar:
-<div align="center">  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-  <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-  <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-  <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-</div>
-  
-
-<br/>  
-
-# 📊 GitHub İstatistikleri:
-![](https://github-readme-stats.vercel.app/api?username=guler-burak&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=guler-burak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guler-burak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-
+Currently focused on building independent software projects and expanding my portfolio with production-oriented applications.
 
 ---
-<br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=guler-burak&&style=flat-square)  
-  
+## 🚀 What I'm Working On
 
-<br/>  
+* Building web applications with **Python & Django**
+* Developing software products for real-world business needs
+* Improving backend development and database design skills
+* Creating clean, maintainable and documented projects
+
+---
+
+## 🛠️ Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,git,github,vscode" />
+</p>
+
+**Backend:** Python · Django
+**Frontend:** HTML · CSS · JavaScript · Bootstrap
+**Database:** MySQL · SQLite
+**Tools:** Git · GitHub · VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Software Projects
+
+My current focus is on developing practical applications that can be used as real software products.
+
+New projects will be added here as they are completed.
+
+<!-- Example for future projects:
+
+### License & Expiry Tracker
+A Django-based application for managing software licenses, domains, hosting services and renewal dates.
+
+**Tech:** Python · Django · PostgreSQL
+
+[Repository](PROJECT_GITHUB_URL) · [Live Demo](PROJECT_DEMO_URL)
+
+-->
+
+---
+
+## 🌐 Find Me Online
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://burakguler.com.tr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/burakgüler)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/guler-burak)
+
+---
+
+## 📊 GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guler-burak&layout=compact&theme=github_dark&hide_border=true" />
+</p>
